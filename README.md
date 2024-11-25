@@ -44,7 +44,7 @@ Create measures for key performance indicators (KPIs) such as total cases, total
 
 ### Query 
 
-[Uploading Covid Query.sql…]()
+[Covid Query.sql…]()
 
 
 
